@@ -1,5 +1,5 @@
 {
-  "name": "grunt-npm-wiredep",
+  "name": "grunt-wiredep",
   "description": "Inject your NPM dependencies right into your HTML from Grunt.",
   "version": "3.0.1",
   "homepage": "http://nomnomnomnom.github.io/grunt-wiredep",
